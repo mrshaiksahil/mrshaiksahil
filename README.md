@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrshaiksahil&label=Profile%20views&color=0e75b6&style=flat" alt="mrshaiksahil" /> </p>
 
-- 🔭 I’m currently working on **TRAVEL WEBSITE**
+- 🔭 I’m currently working on **AI Fitness trainee**
 
-- 🌱 I’m currently learning **REACTJS**
+- 🌱 I’m currently learning **spring mvc**
 
 - 💬 Ask me about **HTML,CSS,JAVASRIPT,DATA STRUCTURES**
 
